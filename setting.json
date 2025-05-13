@@ -1,0 +1,101 @@
+{
+  "owner": {
+    "number": [
+      "34640978744@s.whatsapp.net"
+    ],
+    "nomor": "6287824695047@s.whatsapp.net",
+    "name": "vreden"
+  },
+  "links": {
+    "tiktok": "https://",
+    "instagram": "-",
+    "channel": "https://whatsapp.com/channel/0029Vaf0HPMLdQeZsp3XRp2T",
+    "group": "-",
+    "website": "https://www.vreden.my.id"
+  },
+  "bots": {
+    "nameFull": "Hinata V10 Official",
+    "nameCall": "Hinata",
+    "footer": "© 2024 • IBL                   AI ✦ ࣪˖",
+    "session": "session",
+    "style": "v1",
+    "welcomeType": "v1",
+    "title": "IBL Team • ChatBots",
+    "menu": "------------ » *INFO DO BOT* « ------------\n\n┌━━━━━━━━━━┈─✧\n│ *☏ Nome do Bot :* @botname\n│ *♙ Prefixo :* [ @prefix ]\n│ *₪ Hora :* @jam\n│ *▨ Total de Funções:* @totalfitur Funções\n│ *⚿ Total de Erros:* 4 Funções\n│ *♗ Versão :* 7.8.0\n├━━━━━━━━━━┈─⋆\n┴ ▸ *Usuário:* @pushname\n┬ ▸ *Seu Dispositivo:* @device\n└━━━━━━━━━━┈─◂",
+    "pairing": true,
+    "idsaluran": "120363282083849178@newsletter",
+    "namasaluran": "IBL (HINATA Official)"
+  },
+  "mediaPath": {
+    "donasi": "linkurl pomf lu",
+    "thumbnail": "https://pomf2.lain.la/f/x19h2ap2.jpg",
+    "audioMenu": "url pomf",
+    "audioOwner": "url pomf"
+  },
+  "ptero": {
+    "links": "https://IBLteam.pterodactly.web.id",
+    "plta": "ptla_GjZkZNZI6P3l95Eh0qWlh1WzLQvZONFgbEZJeUjn7pb",
+    "pltc": "ptlc_S7xYaVYklml09JsroFhGgtFl2BfZydj4CLbFUlYZWbB",
+    "eggs": 15,
+    "nets": 5,
+    "location": 1
+  },
+  "apikey": {
+    "skizo": "rafael",
+    "zeeone": "Hinata",
+    "lolhuman": "Hinata",
+    "neoxr": "panjangan",
+    "atlantic": "samudra brakakakak",
+    "otpku": "neyX9qEzgItWUihaO4r7SY6VFPABs3"
+  },
+  "general": {
+    "prefix": true,
+    "audioOwner": false,
+    "audioMenu": false,
+    "autoWelcome": false,
+    "autoLeave": false,
+    "autoBackup": true,
+    "autoBio": false,
+    "autoRespond": false,
+    "autoBlock212": false,
+    "autoRead": true,
+    "autoSholat": false,
+    "antiViewOnce": false,
+    "antiDelete": false,
+    "antiCall": true,
+    "onlyRegister": false,
+    "notifRegister": false,
+    "grupOnly": false,
+    "privateOnly": false
+  },
+  "count": {
+    "toxic": 5,
+    "antiLink": 5,
+    "limit": {
+      "premium": 100000,
+      "free": 100
+    },
+    "game": {
+      "premium": 500,
+      "free": 20
+    }
+  },
+  "reward": {
+    "game": 250,
+    "timeGame": 120000
+  },
+  "mess": {
+    "wait": "*Carregando...*",
+    "error": {
+      "input": "A consulta que você forneceu não é válida",
+      "api": "Ops, ocorreu um erro na chave do bot, por favor entre em contato com o proprietário para corrigir",
+      "bot": "Ocorreu um erro"
+    },
+    "OnlyGrup": "Comando Exclusivo para Grupos!!",
+    "OnlyPM": "Comando Exclusivo para Chat Privado!!",
+    "GrupAdmin": "Exclusivo para Administradores do Grupo!!",
+    "BotAdmin": "O Bot precisa ser administrador",
+    "OnlyOwner": "Exclusivo para o Proprietário do Bot!!",
+    "OnlyPrem": "Exclusivo para Usuários VIP!!"
+  }
+}

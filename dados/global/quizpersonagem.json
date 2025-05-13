@@ -1,0 +1,95 @@
+{
+    "Personagens": [
+        {
+            "NomePersonagem": "Uchiha Madara",
+            "LinkFoto": "https://telegra.ph/file/3eb28370ec233e54a0236.jpg",
+            "NomesAleatorios": [
+                "Uchiha Shisui",
+                "Uzumaki Naruto ",
+                "Albus Dumbledore"
+            ]
+        },
+        {
+            "NomePersonagem": "Manikaze Minato",
+            "LinkFoto": "https://telegra.ph/file/f1fac689d78b60473e2eb.jpg",
+            "NomesAleatorios": [
+                "Uchiha Shisui",
+                "Uzumaki Naruto ",
+                "Kilian Mpape"
+            ]
+        },
+        {
+            "NomePersonagem": "Naruto",
+            "LinkFoto": "https://telegra.ph/file/38c5636ba54af0b45180b.jpg",
+            "NomesAleatorios": [
+                "Uchiha Sasuke",
+                "Hataque Kakashi",
+                "Pain"
+            ]
+        },
+        {
+            "NomePersonagem": "Kakashi",
+            "LinkFoto": "https://telegra.ph/file/088516ee67d14e050676e.jpg",
+            "NomesAleatorios": [
+                "Uchiha Sasuke",
+                "Orotimaru"
+            ]
+        },
+        {
+            "NomePersonagem": "Uchiha Itachi",
+            "LinkFoto": "https://telegra.ph/file/5bc3b4986c5b07e1105bd.jpg",
+            "NomesAleatorios": [
+                "Uchiha Sasuke",
+                "Orotimaru"
+            ]
+        },
+        {
+            "NomePersonagem": "Uchiha Sasuke",
+            "LinkFoto": "https://telegra.ph/file/2a45eca98f32b69899d8d.jpg",
+            "NomesAleatorios": [
+                "Kabuto",
+                "Orotimaru"
+            ]
+        },
+        {
+            "NomePersonagem": "Himura Kensin",
+            "LinkFoto": "https://telegra.ph/file/f40cc9a19a3a3452febb8.jpg",
+            "NomesAleatorios": [
+                "Zoro",
+                "Pain"
+            ]
+        },
+        {
+            "NomePersonagem": "Goku",
+            "LinkFoto": "https://telegra.ph/file/34c703f7e592247af776b.jpg",
+            "NomesAleatorios": [
+                "Gohan",
+                "Picolo"
+            ]
+        },
+        {
+            "NomePersonagem": "Gohan",
+            "LinkFoto": "https://telegra.ph/file/14317dda52c3d57eff14c.jpg",
+            "NomesAleatorios": [
+                "Hinata",
+                "Trunks"
+            ]
+        },
+        {
+            "NomePersonagem": "Jinei Udo",
+            "LinkFoto": "https://telegra.ph/file/b0579c87efb7c648881b9.jpg",
+            "NomesAleatorios": [
+                "Venon",
+                "Samurai X"
+            ]
+        },
+        {
+            "NomePersonagem": "Kaoru Kamia",
+            "LinkFoto": "https://telegra.ph/file/d72ef9a592f916c4a0f13.jpg",
+            "NomesAleatorios": [
+                "Hinata",
+                "Sakura"
+            ]
+        }
+    ]
+}

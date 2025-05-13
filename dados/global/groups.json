@@ -1,0 +1,2700 @@
+[
+  {
+    "id": "120363420241633555@g.us",
+    "subject": ".....",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1746571984,
+    "size": 2,
+    "creation": 1746571984,
+    "owner": "5512988777980@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512988063155@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "superadmin"
+      }
+    ]
+  },
+  {
+    "id": "120363414396241601@g.us",
+    "subject": "Bot",
+    "subjectOwner": "351910179688@s.whatsapp.net",
+    "subjectTime": 1742213708,
+    "size": 2,
+    "creation": 1742213708,
+    "owner": "351910179688@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ]
+  },
+  {
+    "id": "120363376063128109@g.us",
+    "subject": "Jogo da velha",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1734052075,
+    "size": 2,
+    "creation": 1734052075,
+    "owner": "5512988777980@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "superadmin"
+      }
+    ]
+  },
+  {
+    "id": "120363396583270105@g.us",
+    "subject": "Puxadas e Consultas Gratis - Yakuza Bot",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1741617787,
+    "size": 2,
+    "creation": 1741617336,
+    "owner": "5512988777980@s.whatsapp.net",
+    "desc": "Grupo focado somente em consultas\nProibido enviar:\nLinks\nFotos\nVídeos\nAudio\nCaso o não cumprimento, o ban é automatizado pelo bot\n\nPrefixo do Bot: ! Ou /\nQuais consultas temos???:\n✔️ NOME\n✔️ TELEFONE\n✔️CPF1\n✔️CPF2\n✔️CPF3\n✔️PLACA\n✔️CNPJ\n\nDeseja colocar esse bot no seu grupo ou ter esse bot exclusivamente nós seus grupos????\n\nTemos planos a partir de R$25\nQuer saber mais? Entre em contato com o dono do Grupo: +55 12 98877-7980",
+    "descId": "83590D31D907F329D3A185037AF5023F",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "superadmin"
+      }
+    ]
+  },
+  {
+    "id": "120363418353784084@g.us",
+    "subject": "....",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1743284594,
+    "size": 2,
+    "creation": 1743284594,
+    "owner": "5512988777980@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512988063155@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "superadmin"
+      }
+    ]
+  },
+  {
+    "id": "120363039662113757@g.us",
+    "subject": "Sou linda💋",
+    "subjectTime": 1677633484,
+    "size": 5,
+    "creation": 1650729494,
+    "owner": "5521972204803@s.whatsapp.net",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521972204803@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "559285026715@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ],
+    "ephemeralDuration": 7776000
+  },
+  {
+    "id": "120363398504865080@g.us",
+    "subject": "Yakuza Boooot",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1738349681,
+    "size": 5,
+    "creation": 1738349681,
+    "owner": "5512988777980@s.whatsapp.net",
+    "desc": "Pedro lindão bonito e gostosão",
+    "descId": "55121F29F3562FB5EEE76F63144DBBE9",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988063155@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "554191788956@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ]
+  },
+  {
+    "id": "120363317961743676@g.us",
+    "subject": "CHAT - YAKUZA BOT",
+    "subjectOwner": "5512974090637@s.whatsapp.net",
+    "subjectTime": 1727975526,
+    "size": 5,
+    "creation": 1726269503,
+    "owner": "5512974090637@s.whatsapp.net",
+    "desc": "Esse grupo serve para aqueles que estão interessados no bot para aluguel no seu grupo, aqui você pode testar ele mas também não deixa de ser um grupo de amizades também! Todos são bem vindos\n\nRegras:\nProibido Links de outros grupos\nProibido Conteúdo adulto\nProibido Divulgação de outros bots\nProibido flodar comandos do bot",
+    "descId": "A64F9193099DD97B6814754ADE40EAFF",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "558396981332@s.whatsapp.net",
+        "admin": null
+      }
+    ]
+  },
+  {
+    "id": "120363358400112263@g.us",
+    "subject": "A",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1733917664,
+    "size": 5,
+    "creation": 1733870424,
+    "owner": "5512988777980@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988063155@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ]
+  },
+  {
+    "id": "120363358866846567@g.us",
+    "subject": "Tropa do Mocotó 🐉",
+    "subjectOwner": "5521967135671@s.whatsapp.net",
+    "subjectTime": 1730591957,
+    "size": 6,
+    "creation": 1730591935,
+    "owner": "5521967135671@s.whatsapp.net",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521967135671@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "5527996903339@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553187025385@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556196191465@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558293113163@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ]
+  },
+  {
+    "id": "120363385574038560@g.us",
+    "subject": "oi amor",
+    "subjectOwner": "5512988063155@s.whatsapp.net",
+    "subjectTime": 1746563959,
+    "size": 7,
+    "creation": 1735420456,
+    "owner": "5512988777980@s.whatsapp.net",
+    "desc": "oi familia",
+    "descId": "3EB07412441B05B017BFA14FDD197BF58F79AEF1",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988063155@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512996557440@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5521972204803@s.whatsapp.net",
+        "admin": "admin"
+      }
+    ]
+  },
+  {
+    "id": "120363195554330177@g.us",
+    "subject": "Suporte Hinata-VIP ❤️",
+    "subjectTime": 1705358554,
+    "size": 7,
+    "creation": 1699749315,
+    "desc": "Bot vip 30 R$\n\nInclui todos os comandos de ia do menu, puxada de dados, upscalin de imagens, gerador de imagens\n\nBot Signature 25R$",
+    "descId": "3A3ED1659B9D650E24E83F94A1BBD865",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512991497289@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512996557440@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "553898090238@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556192929772@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556993651819@s.whatsapp.net",
+        "admin": null
+      }
+    ]
+  },
+  {
+    "id": "553496513429-1633568787@g.us",
+    "subject": "༒☬𝕯𝖊𝖘𝖌𝖗𝖆𝖈𝖆 𝕮𝖔𝖑𝖊𝖙𝖎𝖛𝖆☬༒",
+    "subjectOwner": "553496513429@s.whatsapp.net",
+    "subjectTime": 1740101112,
+    "size": 9,
+    "creation": 1633568787,
+    "owner": "553496513429@s.whatsapp.net",
+    "desc": "Pornozão liberado😳\n\nJoão: é a namorada de todos \n\nCodorna: Chorão do grupo\n\nPedro: pega traveco e tbm e gay \n\"Tá bom pra vc?\"👅\n\nSabia q dá pra xingar o Pedro usando a mesma frase só mudando de lugar?\n\nPedro tu é um lixo\n\nTu é um lixo Pedro\n\nQuem caça capivara na selva é o C.F 💩\n\nSilver: CONSELHEIRO APAIXONADO 😎\n\nUGA UGA UGA UGA PAGÉ💀\n\nSe ver algum Pedro... Apenas ignora e xinga bastante \n\nGustavo: Tim Maia dos paiero 🤙🏽\n\nJúlio: noiado do grupo\n\nMatheus: o sem atitude\n\nJoão lucas: o dominado, mulher bota moral\n\nOs irmãos Porquinhos: Pedro, Matheus, Carlos e Gustavo.",
+    "descId": "69F8BB5A42B88056AF754B629F3F58E6",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519982031338@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5519997152383@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521972204803@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5522992294578@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553491705832@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "553496513429@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "555491235386@s.whatsapp.net",
+        "admin": null
+      }
+    ]
+  },
+  {
+    "id": "120363168797709148@g.us",
+    "subject": "IBLCLOUD SUPORTE",
+    "subjectTime": 1694162907,
+    "size": 13,
+    "creation": 1693215065,
+    "desc": "@Pedro Rafael  ê o suporte do Ti, ele que manja dos serviços do painel \nVan suporte da parte cliente, ajuda com codigos, duvidas de api... Etc \n\nsite: painel.iblgroup.cloud",
+    "descId": "2BEF2DD4B3D0BAEF3582D5847107E9FA",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "34631781428@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512996557440@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5521997720053@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "554191432836@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554498817379@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557999238248@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558681738809@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559184330784@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "573046758714@s.whatsapp.net",
+        "admin": null
+      }
+    ]
+  },
+  {
+    "id": "120363398331988313@g.us",
+    "subject": "ADMS Zoeira Total ",
+    "subjectOwner": "5512988777980@s.whatsapp.net",
+    "subjectTime": 1743878350,
+    "size": 18,
+    "creation": 1743878350,
+    "owner": "5512988777980@s.whatsapp.net",
+    "desc": "GRUPO FOCADO EM ORGANIZAR O GRUPO PRINCIPAL \"Zoeira Total\" \nUm grupo onde os adm pode ter uma comunicação, dar ideias, discutir e reclamar de algo e se tornar uma família em si, não somente adms de um grupo...\nEnfim amo vocês, bora fazer o melhor grupo do zap ❤️\n\nOutra coisa, vamos reformular as regras também, deixar uma regra fixa, eu vou deixar umas votações aqui pra gente decidir algumas coisas q mts estão em duvida\n\nE os adm q tiver mais ativo trabalhando vamos tentar ajudar como o Alison mandou pix pra geral hj, quando eu puder também mando mas quando não puder com pix da pra mim dar iptv e desconto nos desbloqueio de celular e dependendo do desbloqueio faço de graça",
+    "descId": "3BEAE0CA61DF511474A56273E499430A",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5511920492994@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511947757868@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511954889891@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511958422501@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511985769314@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "5512996557440@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5521984247195@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522998237829@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527996903339@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553187025385@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554191788956@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556196191465@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557184060590@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558293113163@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558796256374@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559187246383@s.whatsapp.net",
+        "admin": null
+      }
+    ]
+  },
+  {
+    "id": "120363386013307765@g.us",
+    "subject": "Amizades e zoeiras 💭💫",
+    "subjectOwner": "5511915761778@s.whatsapp.net",
+    "subjectTime": 1735781634,
+    "size": 62,
+    "creation": 1735781634,
+    "owner": "5511915761778@s.whatsapp.net",
+    "desc": "Sigam o dono no insta @van_hurtere\n\nBem vindo(a) ao grupo : Amizades e zoeiras 💭💫\n\n👾 •𝑬𝑵𝑻𝑹𝑶𝑼 𝑺𝑬 𝑨𝑷𝑹𝑬𝑺𝑬𝑵𝑻𝑨•\n📸 •F𝜣T𝜣\n👻 •N𝜣ME\n📌 •CID∆DE\n🗓️ •ID∆DE\n⚠️ •LEI∆ ∆S REGR∆S D𝜣 GRUP𝜣\n\n*APROVEITE O GRUPO!*\n\nRegras:\n 1- Não pode invadir pv sem autorização!!!\n2- não mandar links e qualquer divulgação\n3- não dar em cima de quem namora!!! 😠\n4- Idade permitida +14\n\nLink: https://chat.whatsapp.com/DH0HZDGmQ6i52sbLAeCHCC",
+    "descId": "0847D86F4F18E6924C3870A94D005A3A",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "351910179688@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "351939128031@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516996450971@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554599668023@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558193603746@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554491461787@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "558496440931@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559491302565@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559293546826@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527997499799@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521995159238@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511919361291@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511915761778@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "5522999138982@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511920680080@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5528999169158@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511961395803@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554299063171@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557588210398@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5524999777914@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558896240496@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554888459873@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511942848599@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512997127513@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5518996270150@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556181065492@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559984755869@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556295515467@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511944875813@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556196292950@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556193393904@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557592099792@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "559392397154@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559887141767@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554398453910@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558187662564@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "558994418806@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555599696989@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558198923680@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556181073771@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556281101905@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5517981094216@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5518991032490@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "559192757550@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554892169993@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559181438330@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512996557440@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5522999060552@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "351912812702@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559284602840@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554484160399@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522997513864@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556798011877@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5528992779159@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "553171941096@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559291086326@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527996575897@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556781343553@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555196241173@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556281960655@s.whatsapp.net",
+        "admin": null
+      }
+    ],
+    "ephemeralDuration": 604800
+  },
+  {
+    "id": "5511953434858-1635543725@g.us",
+    "subject": "Zoeira Total 🤡🤪",
+    "subjectOwner": "5511953434858@s.whatsapp.net",
+    "subjectTime": 1733636242,
+    "size": 100,
+    "creation": 1635543725,
+    "owner": "5511953434858@s.whatsapp.net",
+    "desc": "# Bem-vindo(a) ao grupo : Zoeira Total 🤪🤡\n\n*10 min para se apresentar*\n👾 •𝑬𝑵𝑻𝑹𝑶𝑼 𝑺𝑬 𝑨𝑷𝑹𝑬𝑺𝑬𝑵𝑻𝑨•\nOBRIGATÓRIO OBRIGATÓRIO :\n📸 •F𝜣T𝜣\n👻 •N𝜣ME\n📌 •CID∆DE\n🗓️ •ID∆DE\n\n### 📢 *(NÃO É GRUPO DE FIGURINHAS)*\n\n---\n\n## 𝑹𝑬𝑮𝑹𝑨𝑺 𝑫𝑶 𝑮𝑹𝑼𝑷𝑶 ☕\n_𝐓𝐔𝐃𝐎 É 𝐈𝐑𝐎𝐍𝐈𝐀_\n\n1   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑻𝒓𝒂𝒗𝒂 𝒁𝒂𝒑\n2   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑮𝒐𝒓𝒆\n3   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑭𝒍𝒐𝒐𝒅\n4   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑴𝒆𝒎𝒃𝒓𝒐𝒔 𝑻𝒐𝒙𝒊𝒄𝒐𝒔 \n5   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑳𝒊𝒏𝒌𝒔\n6   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑰𝒏𝒗𝒂𝒅𝒊𝒓 𝒐 𝑷𝑽 𝒔𝒆𝒎 𝒑𝒆𝒓𝒎𝒊𝒔𝒔𝒂̃𝒐\n7   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑷𝒐𝒓𝒏𝒐𝒈𝒓𝒂𝒇𝒊𝒂\n8   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑫𝒊𝒗𝒖𝒍𝒈𝒂𝒄𝒂𝒐\n9   🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑵𝒖𝒎𝒆𝒓𝒐𝒔 𝑭𝒂𝒌𝒆𝒔 \n10. 🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑬𝒏𝒕𝒓𝒂𝒓 𝒆 𝒑𝒆𝒅𝒊𝒓 𝒇𝒊𝒈𝒖𝒓𝒊𝒏𝒉𝒂𝒔 \n11. 🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑭𝒂𝒍𝒂𝒓 𝒅𝒆 𝒂𝒔𝒔𝒖𝒏𝒕𝒐 𝒓𝒆𝒍𝒊𝒈𝒊𝒐𝒔𝒐\n12. 🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑴𝒆𝒏𝒐𝒓𝒆𝒔 𝒅𝒆 15 𝒂𝒏𝒐𝒔 \n13. 🚫 _𝑷𝑹𝑶𝑰𝑩𝑰𝑫𝑶:_ 𝑷𝒆𝒓𝒇𝒊𝒍 𝒔𝒆𝒎 𝒇𝒐𝒕𝒐 𝒆 𝒏𝒐𝒎𝒆\n\n---\n\n## Outros Avisos\n\n📵 _Se mandar link ou alguma coisa de pix sera automaticamente removido e tera uma surpresa no pv._\n\n🚷 _Seja ativo no grupo, quem não for será removido._",
+    "descId": "8224921B9027B7E650E0149069B63377",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "554185082151@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511948503361@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527996903339@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "554796531485@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511953434858@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5511969712343@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555181284286@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558293113163@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5511986622206@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519971642822@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558197175557@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556399871980@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522998237829@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5511978914761@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511920492994@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554191858346@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554491075204@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511985769314@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "556592796469@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553196906814@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512981724135@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "553187025385@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "558491383844@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557381269580@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557184060590@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5512988063155@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "554191788956@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "556196191465@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5522997254771@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558196075782@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558196887398@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511962999924@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511947757868@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5511997341949@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511982385183@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556392594273@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553298533360@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516994167872@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527999573485@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519999859164@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554197284560@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556194498953@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553591991298@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554491689490@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5517996146877@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555181103320@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511952830527@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521999164868@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "34614418203@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "557391315578@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521988256548@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558796256374@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555181145393@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "34640978744@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "554288325866@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557199981055@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553288785261@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554499747633@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516994110081@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557398690475@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557591860661@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555193305017@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553897257345@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5517981665033@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557998778993@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511982741687@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "551631701133@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554591191184@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558196576003@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553196316001@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557598480643@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558499078608@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511958422501@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553173642566@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556281101905@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5518991032490@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521967135671@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553391390386@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557981076965@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512996557440@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "351912812702@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511961824758@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554388729994@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558896501984@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557199208229@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554288225426@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558584775718@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521984247195@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5511932906078@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511981450047@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511918321742@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556798387750@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "553597078014@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521997720053@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "558487989913@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511942370556@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5517981377837@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519991595599@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511984762760@s.whatsapp.net",
+        "admin": null
+      }
+    ]
+  },
+  {
+    "id": "120363161711560934@g.us",
+    "subject": "ChipTec + Global Cards",
+    "subjectOwner": "554598340094@s.whatsapp.net",
+    "subjectTime": 1691448756,
+    "size": 341,
+    "creation": 1691112870,
+    "owner": "555198328165@s.whatsapp.net",
+    "desc": "🚨 *COMPRAS APENAS COM ADM DO GRUPO* 🚨, _qualquer um que não seja ADM não tem autorização para venda, é um possível GOLPE (Denuncie)._\n\n❌ _Proibido qualquer tipo de discriminação, racismo e pornografia._\n❌ _Evite discussões no grupo._\n❌ _Evite memes e figurinhas assuntos não relacionados a games_\n❌ _Proibido politica e religião._\n❌ _Proibido qualquer tipo de link._\n🚫 _*Proibido qualquer tipo de anúncio de venda* pessoal ou indicação._\n\n📌 *Regras são regras, respeitem-se para evitar um possível banimento. Bons jogos!*",
+    "descId": "1896305C8DDE5265A58369FF6A62E9DD",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": false,
+    "participants": [
+      {
+        "id": "558994746726@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512997901602@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555592224382@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559187661158@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511983116555@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555584470173@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558197941620@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553384061930@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "351927623530@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554899184053@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554284093404@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511946717547@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5513996710492@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553892645616@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558488248585@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554198237700@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519982031338@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521992727337@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553180132188@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519991366594@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555492737084@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5514996598175@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511969385134@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559285773060@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557381252449@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558496545028@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555596885125@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558173263128@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555491235386@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556292571668@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521964996777@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556581149246@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511979967625@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556296628210@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557398680087@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511965121294@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558192297697@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558681572385@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556181981511@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511944220801@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556781152668@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555599478704@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553597622292@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554196005681@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511965054842@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511973410545@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556781279344@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519971468302@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554197304672@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555198328165@s.whatsapp.net",
+        "admin": "superadmin"
+      },
+      {
+        "id": "5511953805985@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557788323116@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554399240209@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558592315910@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559884543431@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556391195141@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511979989175@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558896355967@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5518991781987@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521988037841@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553384667598@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556183649051@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557183623363@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555195938969@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "553194556207@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558893336263@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559492928282@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558198743478@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516988224917@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555197853788@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555199554461@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556183798388@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559193259798@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521990450181@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558393642937@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511988511201@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522999697386@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521989958548@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521973515076@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557491982880@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557191042301@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5513974158963@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557499045015@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557582438005@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558491078361@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553898297857@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511913341137@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558182014795@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511983355206@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559992155123@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556599399333@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558194177068@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556481253756@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556196255676@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554598340094@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "557193698948@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511969755523@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557185280998@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554899046790@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511937059701@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553588541826@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558181465531@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553591522412@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511986813504@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512991394014@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557598845860@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511969971632@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556191449389@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558396719923@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556299012617@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556392246850@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554888221101@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557186885698@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521965003683@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559291898912@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519989073526@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558291712288@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5514991485026@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521970773272@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558193897745@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558184099816@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521995958769@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556692373269@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556892501256@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558197580579@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553897317860@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558589306277@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559984034823@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559198337266@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559784346828@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556391384469@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557488555035@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511982168058@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558788020526@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559392068881@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557788243293@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555198883889@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "558488477686@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559184949383@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511948461714@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511941040167@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554699406964@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556196521488@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556499550323@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511953923597@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511966655735@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554896798915@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557182743888@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553488928340@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556292581981@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559193190363@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554197009873@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558586872117@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559991667557@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558185717497@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558591703445@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "34624115627@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558382050374@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516981695521@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511986408057@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511976592622@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559691133026@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555597061037@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558681701756@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556999211544@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559981228078@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511917422654@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554792448952@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558185454985@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558399906658@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556999599853@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554599800471@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554891778304@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558888070550@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511964382450@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522998933843@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558594386604@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554588218005@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511977853371@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558199184480@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511916038084@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556791714197@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511944980578@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557187164795@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558481694438@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558381770943@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555399031848@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511975844865@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519999184342@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511912451156@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556499259250@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521986698776@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558281182991@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556791103506@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511966694222@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5514997402817@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519994392978@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559285239977@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558399536556@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557199565465@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519989542317@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554797908131@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558194746041@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553195606323@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554187003085@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557481229996@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558196802378@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556792318549@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558499597275@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511993247340@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557381682633@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557192895684@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5519981343445@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556284089578@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559185391268@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558699783152@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5517991095474@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559182980662@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559282498245@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553492852836@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558188474384@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556281360655@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5513996448094@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558396407346@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556196303478@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521982194910@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558281574265@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554898603765@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557193959743@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559185725581@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522981304539@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557988656136@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5582920005254@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553192668204@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559391999134@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556592721769@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559991144819@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555198907968@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559294301146@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558499288030@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521979360466@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522999547699@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556182877177@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558182869879@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553884112924@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557398670734@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558299822935@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558496219688@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511952693000@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559281412220@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557192047244@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558796669792@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557199146894@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5513996980503@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521973917787@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511955870082@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512992604125@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521965211222@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556599979052@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557186743019@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559492282212@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5514996608037@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558291172504@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554288633941@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559182303179@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558488914695@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558581938607@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558293475344@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521988303703@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558581132855@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556796280160@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559884426563@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558699437347@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558182195478@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553888364474@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556193754700@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511966051172@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555184778520@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511959225346@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559192205797@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556899919162@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511958767880@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556593442232@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511969205484@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516974056905@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527988748179@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558393126097@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557182087327@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558391374373@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559492029731@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521964016183@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558189316811@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553598995953@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5522999979322@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553492364991@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521983651873@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554797790858@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558299500251@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554196816938@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554197533176@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558894530383@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "554799081591@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555192228570@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556284260693@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553288532652@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558196566555@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558594256966@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558791819930@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5514991285718@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5516997307419@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553599791891@s.whatsapp.net",
+        "admin": "admin"
+      },
+      {
+        "id": "5519983211459@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527996207114@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511966397122@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511987235272@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553191428288@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511960978079@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988240650@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556696746658@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555193971316@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5512988777980@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556281578363@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557582803852@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556281360954@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5585935009522@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558587755703@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "553195855806@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5527988617724@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558199199703@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "559191417420@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521986502263@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558198738055@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556198559049@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558892193832@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "557382375157@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "351929121552@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "558191468316@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5521969809465@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "5511962999019@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "555599638052@s.whatsapp.net",
+        "admin": null
+      },
+      {
+        "id": "556199140822@s.whatsapp.net",
+        "admin": null
+      }
+    ],
+    "ephemeralDuration": 604800
+  }
+]
