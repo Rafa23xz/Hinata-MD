@@ -9,7 +9,6 @@ import { Label } from './Label';
 import { LabelAssociation } from './LabelAssociation';
 import { MessageUpsertType, MessageUserReceiptUpdate, WAMessage, WAMessageKey, WAMessageUpdate } from './Message';
 import { ConnectionState } from './State';
-import { NewsletterSettingsUpdate, SubscriberAction, NewsletterViewRole } from './Newsletter';
 export type BaileysEventMap = {
     /** connection state has been updated -- WS closed, opened, connecting etc. */
     'connection.update': Partial<ConnectionState>;
@@ -20,7 +19,10 @@ export type BaileysEventMap = {
         chats: Chat[];
         contacts: Contact[];
         messages: WAMessage[];
-        isLatest: boolean;
+        isLatest?: boolean;
+        progress?: number | null;
+        syncType?: proto.HistorySync.HistorySyncType;
+        peerDataRequestSessionId?: string | null;
     };
     /** upsert chats */
     'chats.upsert': Chat[];
@@ -59,10 +61,12 @@ export type BaileysEventMap = {
     /**
      * add/update the given messages. If they were received while the connection was online,
      * the update will have type: "notify"
+     * if requestId is provided, then the messages was received from the phone due to it being unavailable
      *  */
     'messages.upsert': {
         messages: WAMessage[];
         type: MessageUpsertType;
+        requestId?: string;
     };
     /** message was reacted to. If reaction was removed -- then "reaction.text" will be falsey */
     'messages.reaction': {
@@ -85,32 +89,6 @@ export type BaileysEventMap = {
         participant: string;
         action: RequestJoinAction;
         method: RequestJoinMethod;
-    };
-    'newsletter.reaction': {
-        id: string;
-        server_id: string;
-        reaction: {
-            code?: string;
-            count?: number;
-            removed?: boolean;
-        };
-    };
-    'newsletter.view': {
-        id: string;
-        server_id: string;
-        count: number;
-    };
-    /**don't handles subscribe/unsubscribe actions */
-    'newsletter-participants.update': {
-        id: string;
-        author: string;
-        user: string;
-        new_role: NewsletterViewRole;
-        action: SubscriberAction;
-    };
-    'newsletter-settings.update': {
-        id: string;
-        update: NewsletterSettingsUpdate;
     };
     'blocklist.set': {
         blocklist: string[];
@@ -140,6 +118,9 @@ export type BufferedEventData = {
         };
         empty: boolean;
         isLatest: boolean;
+        progress?: number | null;
+        syncType?: proto.HistorySync.HistorySyncType;
+        peerDataRequestSessionId?: string;
     };
     chatUpserts: {
         [jid: string]: Chat;

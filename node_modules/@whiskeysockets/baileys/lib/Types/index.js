@@ -17,7 +17,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.DisconnectReason = void 0;
 __exportStar(require("./Auth"), exports);
 __exportStar(require("./GroupMetadata"), exports);
-__exportStar(require("./Newsletter"), exports);
 __exportStar(require("./Chat"), exports);
 __exportStar(require("./Contact"), exports);
 __exportStar(require("./State"), exports);
