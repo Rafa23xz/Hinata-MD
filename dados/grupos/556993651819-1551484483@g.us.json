@@ -1,0 +1,103 @@
+[
+  {
+    "name": "⚠️GRUPO SECRETO - COM BOT⚠️",
+    "groupId": "556993651819-1551484483@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "calado": [],
+    "antidoc": false,
+    "antictt": false,
+    "autodown": false,
+    "modoconversa": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "rg_aluguel": false,
+    "advtlink": [],
+    "advtlinkgp": [],
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "comandosB": [],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_listanegra": "Eita, estava na lista negra, sinto muito, terei que remover.",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "recolherlinkgp": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "Chances": [
+      {
+        "id": "556391103241@s.whatsapp.net",
+        "ChanceG": null,
+        "ChanceAp": null,
+        "ChanceR": [],
+        "Vinganca": null,
+        "cassino": 0,
+        "quiz": [
+          {
+            "errou": 0,
+            "acertou": 0,
+            "numero": 0
+          }
+        ],
+        "roletadasorte": false,
+        "Cachaca": 1,
+        "Escudo": []
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "comandos_gold": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "bangp": false
+  }
+]

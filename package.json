@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.7.2",
     "@whiskeysockets/baileys": "^6.7.16",
     "async": "^3.2.4",
     "axios": "^0.21.1",
+    "baileys": "file:baileys.tgz",
     "cfonts": "^2.10.0",
     "cheerio": "^1.0.0-rc.12",
     "colors": "^1.4.0",
@@ -22,7 +24,6 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
     "ssh2": "^1.15.0",
-      "jimp": "^0.22.10",
     "yt-search": "^2.12.1"
   },
   "name": "aleatory-md",
