@@ -185,7 +185,6 @@ packname = '-JR-'
 
 const usedCommandRecently = new Set()
 
-//chyt = `558198923680@s.whatsapp.net`
 
 const isFiltered = (userId) => !!usedCommandRecently.has(userId)
 
